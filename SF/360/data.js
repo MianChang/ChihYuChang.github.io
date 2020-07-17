@@ -35,7 +35,7 @@ var APP_DATA = {
           "yaw": -0.2624505415662064,
           "pitch": 0.017118059895816273,
           "rotation": 0,
-          "target": "5-dach-multifuktionsflaeche"
+          "target": "5-dachmultifuktionsflaeche"
         },
         {
           "yaw": -0.48981405690432744,
@@ -81,7 +81,7 @@ var APP_DATA = {
           "yaw": -3.073937623339603,
           "pitch": -0.5118405024375576,
           "rotation": 0,
-          "target": "4-struktur_multifuktionsflaeche"
+          "target": "4-strukturmultifuktionsflaeche"
         }
       ],
       "infoHotspots": [
@@ -134,7 +134,7 @@ var APP_DATA = {
           "yaw": -3.0994407916171784,
           "pitch": -0.36645821982414795,
           "rotation": 0,
-          "target": "4-struktur_multifuktionsflaeche"
+          "target": "4-strukturmultifuktionsflaeche"
         },
         {
           "yaw": -1.3663237722914037,
@@ -159,8 +159,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "3-schnitt_multifuktionsflaeche",
-      "name": "Schnitt_Multifuktionsflaeche",
+      "id": "3-schnittmultifuktionsflaeche",
+      "name": "SchnittMultifuktionsflaeche",
       "levels": [
         {
           "tileSize": 256,
@@ -218,8 +218,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "4-struktur_multifuktionsflaeche",
-      "name": "Struktur_Multifuktionsflaeche",
+      "id": "4-strukturmultifuktionsflaeche",
+      "name": "StrukturMultifuktionsflaeche",
       "levels": [
         {
           "tileSize": 256,
@@ -246,14 +246,14 @@ var APP_DATA = {
           "yaw": -1.0605986539888015,
           "pitch": -0.45490837376669546,
           "rotation": 0,
-          "target": "3-schnitt_multifuktionsflaeche"
+          "target": "3-schnittmultifuktionsflaeche"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-dach-multifuktionsflaeche",
-      "name": "Dach-multifuktionsflaeche",
+      "id": "5-dachmultifuktionsflaeche",
+      "name": "Dachmultifuktionsflaeche",
       "levels": [
         {
           "tileSize": 256,
@@ -326,7 +326,7 @@ var APP_DATA = {
           "yaw": 0.6740070599254615,
           "pitch": 0.04883420202444633,
           "rotation": 0,
-          "target": "3-schnitt_multifuktionsflaeche"
+          "target": "3-schnittmultifuktionsflaeche"
         }
       ],
       "infoHotspots": []
